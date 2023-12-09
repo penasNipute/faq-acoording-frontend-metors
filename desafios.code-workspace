@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "desafios",
+			"path": "../desafios"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "faq-accordion-main"
+	}
+}
