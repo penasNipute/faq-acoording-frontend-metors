@@ -6,9 +6,15 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../results-summary-component-main"
+		},
+		{
+			"path": "../New folder"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "faq-accordion-main"
+		"liveServer.settings.multiRootWorkspaceName": "results-summary-component-main"
 	}
 }
